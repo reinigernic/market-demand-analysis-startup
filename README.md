@@ -1,8 +1,8 @@
 # market-demand-analysis-startup
 
-# Market Demand Analysis – Online Trading Course
+# Market Demand Analysis
 
-Análise de pesquisa de mercado para validar a viabilidade de lançamento de um curso online de Trading Algorítmico.
+Análise de pesquisa de mercado para validar a viabilidade de lançamento de um curso online.
 
 Projeto desenvolvido em Excel utilizando Análise Exploratória de Dados (EDA) e Inferência Estatística.
 
